@@ -52,9 +52,11 @@
     <Compile Include="Assets\Scripts\Camera.cs" />
     <Compile Include="Assets\Scripts\interactable.cs" />
     <Compile Include="Assets\Scripts\Checkpoint.cs" />
+    <Compile Include="Assets\Scripts\AUDIO!!!.cs" />
     <Compile Include="Assets\Scripts\Interactions.cs" />
     <Compile Include="Assets\Scripts\CplorSwap.cs" />
     <Compile Include="Assets\Scripts\sceneMan.cs" />
+    <Compile Include="Assets\Scripts\Jeeb.cs" />
     <Compile Include="Assets\Scripts\pause.cs" />
     <Compile Include="Assets\Scripts\playercontrols.cs" />
     <Compile Include="Assets\Scripts\Pressure.cs" />
